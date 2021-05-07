@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+
+html{
+    background-color;
+    color: black;
+    background-image: url("images/aot7.jpg");
+    background-size: cover;
+    background-color: rgba(0, 0, 0, .6);
+
+    background-blend-mode: darken;
+}
+.main-header{
+
+    background-image: url("images/aot2.png");
+    background-size: cover;
+    background-color: rgba(0, 0, 0, .6);
+background-blend-mode:lighten;
+padding-bottom: 30px;
+scroll-padding-top:inherit;
+}
+
+
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.nav ul{
+    margin: 0%;
+}
+.nav li{
+ display: inline-block;
+}
+.nav a{
+    display:inline-block;
+    padding: 0.5em;
+    color: aliceblue;
+     text-decoration: none;
+}
+
+.nav a:hover{
+
+    background-color:gray;
+}
+.main-nav{
+    font-size:3.5ex;
+    text-align: center;
+}
+.main-nav li{
+
+    padding: 0.7%;
+}
+.name{
+text-align: center;
+margin: 0;
+font-size: 4em;
+color: red;
+font-family: 'Metal Mania',cursive;
+}
+.section {
+font-family: Raleway;
+margin: 1em;
+color: white;
+}
+
+h3{ 
+    font-family: 'Metal Mania';
+    padding-left: 0.35em;
+    font-size: 3em;
+    color: white;
+}
+.aot2{
+    padding-left: 12em;
+}
+.season-images{
+    padding-left: 36em;
+}
+.btn{
+font-family: 'Raleway';
+   color:white;
+    padding: 1em;
+    text-decoration: none;
+    font-size: 1.7em;
+    border-color: red;
+    background-color: rgba(255, 255, 255, .1);
+    font-weight: bolder;
+    border-radius: 3mm;
+    text-align: center;
+    margin-right: 10px;
+    margin-bottom: 1.5em;
+}
+.btn:hover{
+    background-color: grey;
+}
+
+h4{
+    color:white;
+    font-family: 'Metal Mania';
+    font-size: 1.5em;
+}
+.sub-btn{
+
+    font-family: 'Raleway';
+    text-decoration: none;
+    font-size: 1em;
+    background-color: rgba(255, 255, 255, .1);
+    color: white;
+    border-radius: 0;
+    padding: 0.5em;
+    margin-left: 1.5em;
+}
+.sub-btn:hover{
+    background-color: grey;
+}
+
+text-
